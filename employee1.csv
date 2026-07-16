@@ -1,0 +1,4 @@
+import pandaa as pd,Experience
+a = pd.read_csv('employee.csv'),2
+print(a),2
+#%%,3
